@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'SAP Fiori Icons';
 	src:
-		url('https://raw.githubusercontent.com/my-sac/SACFioriIcons/main/fonts/SAP-icons.woff2') format('woff2'),
-		url('https://raw.githubusercontent.com/my-sac/SACFioriIcons/main/fonts/SAP-icons.woff') format('woff'),
-		url('https://raw.githubusercontent.com/my-sac/SACFioriIcons/main/fonts/SAP-icons.ttf') format('truetype');
+		url('https://my-sac.github.io/SACFioriIcons/fonts/SAP-icons.woff2') format('woff2'),
+		url('https://my-sac.github.io/SACFioriIcons/fonts/SAP-icons.woff') format('woff'),
+		url('https://my-sac.github.io/SACFioriIcons/fonts/SAP-icons.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }

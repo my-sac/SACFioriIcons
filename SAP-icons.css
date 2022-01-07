@@ -1,10 +1,10 @@
-/* SAP Fiori Icons test ok */
+/* SAP Fiori Icons */
 @font-face {
 	font-family: 'SAP Fiori Icons';
 	src:
-		url('/fonts/SAP-icons.woff2') format('woff2'),
-		url('/fonts/SAP-icons.woff') format('woff'),
-		url('/fonts/SAP-icons.ttf') format('truetype');
+		url('https://raw.githubusercontent.com/my-sac/SACFioriIcons/main/fonts/SAP-icons.woff2') format('woff2'),
+		url('https://raw.githubusercontent.com/my-sac/SACFioriIcons/main/fonts/SAP-icons.woff') format('woff'),
+		url('https://raw.githubusercontent.com/my-sac/SACFioriIcons/main/fonts/SAP-icons.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
